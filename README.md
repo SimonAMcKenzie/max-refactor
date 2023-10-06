@@ -1,4 +1,4 @@
-# Your Project Title
+# Max Refactor
 
 ## Description 
 
@@ -12,29 +12,36 @@ Project Scope
 Working with html and css code provided as part of the project, the objective was to satisfy certain requirements for accessibility standards. These requirements included the use of semantic HTML components, the maintenance of a logical structure apart from styling, the inclusion of accessible alt attributes for pictures and icons, the ordering of heading attributes, and the creation of a succinct and informative title element.
 
 
-Key Features
+Key Features:
 - Implementation of semantic HTML elements throughout the source code.
 - Logical structuring of HTML elements, ensuring independence from styling and positioning.
 - Inclusion of accessible alt attributes for images and icons, enhancing usability for visually impaired users.
 - Organization of heading attributes in sequential order, improving content readability and navigation.
 - Crafting a concise and descriptive title element, enhancing the website's context and relevance.
 
-Technologies Used; 
-Visual Studio Code, GitBash, HTML, CSS
+Technologies Used: 
+-Visual Studio Code
+-GitBash
+-HTML
+-CSS
 
 Future Enhancements
-While the current challenge focused on meeting specific accessibility criteria, there are several potential areas for future improvements:
+While the current challenge focused on meeting specific accessibility criteria, there are several potential areas for 
 
-Interactive Elements: Enhance interactive elements like forms and buttons for keyboard navigation and screen reader compatibility.
-Content Expansion: Enrich the website content, making it more informative and engaging for all users.
-Visual Design: Improve the visual design to ensure a pleasant user experience for all visitors, regardless of abilities.
-Responsive Design: Create a visual experience that adapts to different screen sizes to enhance user experience
+
+Future improvements:
+Interactive Elements - Enhance interactive elements like forms and buttons for keyboard navigation and screen reader compatibility.
+Content Expansion - Enrich the website content, making it more informative and engaging for all users.
+Visual Design - Improve the visual design to ensure a pleasant user experience for all visitors, regardless of abilities.
+Responsive Design - Create a visual experience that adapts to different screen sizes to enhance user experience
 
 Link to Deployed Application
 The refactored website is accessible online. You can view the deployed application by following this link.
 
-Conclusion
+
 This Accessibility Refactoring Challenge not only met the specific requirements outlined in the acceptance criteria but also contributed to the broader goal of creating an inclusive and user-friendly web environment, and also my helped me expand my own understanding on accessibilit in front end web development. By adhering to accessibility standards, the Horiseon Marketing Agency website now provides an enhanced user experience for all visitors, reinforcing its commitment to accessibility and search engine optimization.
+
+
 ## Installation
 
 There are no installation requirments
@@ -44,11 +51,7 @@ There are no installation requirments
 
 This a promotional website for a marketing agency called Horiseon and can be used by individuals with specific accesiblity requirements 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+[Max Refactor live site screenshot](assets/images/screenshot.png)
 
 
 ## Credits
@@ -87,6 +90,7 @@ SOFTWARE.
 ---
 
 🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
 
 ## Tests
 
