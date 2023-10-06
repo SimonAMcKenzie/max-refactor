@@ -1,4 +1,4 @@
-# Your Project Title
+# Refactor Challenege
 
 ## Description 
 
@@ -57,6 +57,7 @@ List of credits:
 
 W3C Schools webpages - 
 https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/cssref/index.php
 
 
 ## License
@@ -67,10 +68,6 @@ Using MIT Licence [https://choosealicense.com/](https://choosealicense.com/)
 ---
 
 🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
 ## Tests
 
