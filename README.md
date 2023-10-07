@@ -36,7 +36,9 @@ Visual Design - Improve the visual design to ensure a pleasant user experience f
 Responsive Design - Create a visual experience that adapts to different screen sizes to enhance user experience
 
 Link to Deployed Application
-The refactored website is accessible online. You can view the deployed application by following this link: https://github.com/SimonAMcKenzie/max-refactor
+The refactored website is accessible online. You can view the deployed application by following this link: 
+
+https://simonamckenzie.github.io/max-refactor/
 
 
 This Accessibility Refactoring Challenge not only met the specific requirements outlined in the acceptance criteria but also contributed to the broader goal of creating an inclusive and user-friendly web environment, and also my helped me expand my own understanding on accessibilit in front end web development. By adhering to accessibility standards, the Horiseon Marketing Agency website now provides an enhanced user experience for all visitors, reinforcing its commitment to accessibility and search engine optimization.
