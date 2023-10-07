@@ -51,7 +51,14 @@ There are no installation requirments
 
 This a promotional website for a marketing agency called Horiseon and can be used by individuals with specific accesiblity requirements 
 
-[Max Refactor live site screenshot](assets/images/screenshot.png)
+![Max Refactor live site screenshots](Assets/webpage_not_deploying_properly_screenshot.png)
+![live server screenshot 1](Assets/webpage_showing_properly_on_live_server_screenshot1.png)
+![live server screenshot 2](Assets/webpage_showing_properly_on_live_server_screenshot2.png)
+![live server screenshot 3](Assets/webpage_showing_properly_on_live_server_screenshot13.png)
+
+
+
+
 
 
 ## Credits
