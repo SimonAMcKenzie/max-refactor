@@ -40,8 +40,8 @@ The refactored website is accessible online. You can view the deployed applicati
 
 https://simonamckenzie.github.io/max-refactor/
 
-
-This Accessibility Refactoring Challenge not only met the specific requirements outlined in the acceptance criteria but also contributed to the broader goal of creating an inclusive and user-friendly web environment, and also my helped me expand my own understanding on accessibilit in front end web development. By adhering to accessibility standards, the Horiseon Marketing Agency website now provides an enhanced user experience for all visitors, reinforcing its commitment to accessibility and search engine optimization.
+Conclusion
+This accessibility webpage refactoring challenge has helped me to build a range of skills, and gain insight into what makes websites and applications inclusive and user-friendly, expanding my own understanding on how to implement this as a front end web developer. By adhering to accessibility standards, I was able to enhance the  Horiseon Marketing Agency website to improve user experience for all visitors, reinforcing its commitment to accessibility and search engine optimization. 
 
 
 ## Installation
@@ -51,16 +51,12 @@ There are no installation requirments
 
 ## Usage 
 
-This a promotional website for a marketing agency called Horiseon and can be used by individuals with specific accesiblity requirements 
+This a promotional website for a SEO and Social Media Marketing agency called Horiseon and can be used by individuals with specific accesiblity requirements. Please see screenshots below: 
 
 ![Max Refactor live site screenshots](Assets/webpage_not_deploying_properly_screenshot.png)
 ![live server screenshot 1](Assets/webpage_showing_properly_on_live_server_screenshot1.png)
 ![live server screenshot 2](Assets/webpage_showing_properly_on_live_server_screenshot2.png)
 ![live server screenshot 3](Assets/webpage_showing_properly_on_live_server_screenshot13.png)
-
-
-
-
 
 
 ## Credits
@@ -84,7 +80,7 @@ https://www.youtube.com/watch?v=7yg6JDzWYzM
 
 MIT License
 
-Copyright (c) 2023 Simon A McKenzie
+Copyright (c) 2023 Horiseon Social Solution Services, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
