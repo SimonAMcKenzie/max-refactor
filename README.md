@@ -19,7 +19,7 @@ Key Features:
 - Organization of heading attributes in sequential order, improving content readability and navigation.
 - Crafting a concise and descriptive title element, enhancing the website's context and relevance.
 
-Technologies Used: 
+Technologies Used 
 -Visual Studio Code
 -GitBash
 -HTML
@@ -29,14 +29,14 @@ Future Enhancements
 While the current challenge focused on meeting specific accessibility criteria, there are several potential areas for 
 
 
-Future improvements:
+Future improvement
 Interactive Elements - Enhance interactive elements like forms and buttons for keyboard navigation and screen reader compatibility.
 Content Expansion - Enrich the website content, making it more informative and engaging for all users.
 Visual Design - Improve the visual design to ensure a pleasant user experience for all visitors, regardless of abilities.
 Responsive Design - Create a visual experience that adapts to different screen sizes to enhance user experience
 
 Link to Deployed Application
-The refactored website is accessible online. You can view the deployed application by following this link.
+The refactored website is accessible online. You can view the deployed application by following this link: https://github.com/SimonAMcKenzie/max-refactor
 
 
 This Accessibility Refactoring Challenge not only met the specific requirements outlined in the acceptance criteria but also contributed to the broader goal of creating an inclusive and user-friendly web environment, and also my helped me expand my own understanding on accessibilit in front end web development. By adhering to accessibility standards, the Horiseon Marketing Agency website now provides an enhanced user experience for all visitors, reinforcing its commitment to accessibility and search engine optimization.
@@ -58,8 +58,17 @@ This a promotional website for a marketing agency called Horiseon and can be use
 
 List of credits:
 
+Created by Simon A McKenzie
+
 W3C Schools webpages - 
 https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/cssref/index.php
+
+Web Accessibility Education - YouTube  
+https://www.youtube.com/watch?v=0Y1EEG4GyKU
+
+tutmo - Refactoring for Beginners - YouTube
+https://www.youtube.com/watch?v=7yg6JDzWYzM
 
 
 ## License
