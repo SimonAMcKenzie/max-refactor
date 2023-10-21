@@ -7,7 +7,8 @@
 
 /* Styling for the body element */
 body {
-    background-color: #d9dcd6; /* Background colour for the entire page */
+    background-color: #d9dcd6;
+    /* Background colour for the entire page */
 }
 
 /* Styling for the header section */
@@ -20,17 +21,21 @@ header {
     background-color: #2a607c;
     color: #ffffff;
     padding: 20px;
-    overflow: hidden; /* Clear floats */
+    overflow: hidden;
+    /* Clear floats */
 }
 
 header h1 {
     float: left;
-    font-size: 48px; /* Set the font size for the logo */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Apply the desired font */
+    font-size: 48px;
+    /* Set the font size for the logo */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* Apply the desired font */
 }
 
 header h1 .seo {
-    color: #d9dcd6; /* Set the color for the "seo" letters */
+    color: #d9dcd6;
+    /* Set the color for the "seo" letters */
 }
 
 header nav {
@@ -48,8 +53,10 @@ header nav ul {
 header nav ul li {
     display: inline;
     margin-left: 20px;
-    font-size: 20px; /* Set the font size for the menu items */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Apply the desired font */
+    font-size: 20px;
+    /* Set the font size for the menu items */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* Apply the desired font */
 }
 
 /* ... other styles remain the same ... */
@@ -74,107 +81,151 @@ header nav ul li {
 
 /* Styling for hyperlinks */
 a {
-    color: #ffffff; /* Text colour for hyperlinks */
-    text-decoration: none; /* Remove default underline from hyperlinks */
+    color: #ffffff;
+    /* Text colour for hyperlinks */
+    text-decoration: none;
+    /* Remove default underline from hyperlinks */
 }
 
 /* Styling for paragraphs */
 p {
-    font-size: 16px; /* Font size for paragraphs */
+    font-size: 16px;
+    /* Font size for paragraphs */
 }
 
 /* Styling for the main content section with a background image */
 figure {
-    height: 800px; /* Height of the content section */
-    width: 100%; /* Full width of the content section */
-    margin-bottom: 25px; /* Margin at the bottom of the content section */
-    background-image: url("../images/digital-marketing-meeting.jpg"); /* Background image for the content section */
-    background-size: cover; /* Scale the background image to cover the entire section */
-    background-position: center; /* Center the background image */
+    height: 800px;
+    /* Height of the content section */
+    width: 100%;
+    /* Full width of the content section */
+    margin-bottom: 25px;
+    /* Margin at the bottom of the content section */
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* Background image for the content section */
+    background-size: cover;
+    /* Scale the background image to cover the entire section */
+    background-position: center;
+    /* Center the background image */
 }
 
 /* Styling for floated elements */
 .float-left {
-    float: left; /* Float elements to the left */
-    margin-right: 25px; /* Margin on the right side of floated elements */
+    float: left;
+    /* Float elements to the left */
+    margin-right: 25px;
+    /* Margin on the right side of floated elements */
 }
 
 /* Styling for floated elements */
 .float-right {
-    float: right; /* Float elements to the right */
-    margin-left: 25px; /* Margin on the left side of floated elements */
+    float: right;
+    /* Float elements to the right */
+    margin-left: 25px;
+    /* Margin on the left side of floated elements */
 }
 
 /* Styling for the main content area */
 main {
-    width: 75%; /* Width of the main content area */
-    display: inline-block; /* Display as inline-block to keep floated elements within the container */
-    margin-left: 20px; /* Margin on the left side of the main content area */
+    width: 75%;
+    /* Width of the main content area */
+    display: inline-block;
+    /* Display as inline-block to keep floated elements within the container */
+    margin-left: 20px;
+    /* Margin on the left side of the main content area */
 }
 
 /* Styling for service sections with background colours */
 .services {
-    margin-bottom: 20px; /* Margin at the bottom of service sections */
-    padding: 50px; /* Padding inside service sections */
-    height: 300px; /* Height of service sections */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Font family for service section text */
-    background-color: #0072bb; /* Background colour for service sections */
-    color: #ffffff; /* Text colour for service section text */
+    margin-bottom: 20px;
+    /* Margin at the bottom of service sections */
+    padding: 50px;
+    /* Padding inside service sections */
+    height: 300px;
+    /* Height of service sections */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* Font family for service section text */
+    background-color: #0072bb;
+    /* Background colour for service sections */
+    color: #ffffff;
+    /* Text colour for service section text */
 }
 
 /* Styling for images within service sections */
 .services img {
-    max-height: 200px; /* Maximum height for images within service sections */
+    max-height: 200px;
+    /* Maximum height for images within service sections */
 }
 
 /* Styling for headings within service sections */
 .services h2 {
-    margin-bottom: 20px; /* Margin at the bottom of headings within service sections */
-    font-size: 36px; /* Font size for headings within service sections */
+    margin-bottom: 20px;
+    /* Margin at the bottom of headings within service sections */
+    font-size: 36px;
+    /* Font size for headings within service sections */
 }
 
 /* Styling for the sidebar/aside section */
 aside {
-    margin-right: 20px; /* Margin on the right side of the sidebar/aside section */
-    padding: 20px 20px 10px 20px; /* Padding inside the sidebar/aside section */
-    clear: both; /* Clear floated elements */
-    float: right; /* Float the sidebar/aside section to the right */
-    width: 20%; /* Width of the sidebar/aside section */
-    height: 100%; /* Height of the sidebar/aside section */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Font family for sidebar/aside section text */
-    background-color: #2589bd; /* Background colour for sidebar/aside section */
+    margin-right: 20px;
+    /* Margin on the right side of the sidebar/aside section */
+    padding: 20px 20px 10px 20px;
+    /* Padding inside the sidebar/aside section */
+    clear: both;
+    /* Clear floated elements */
+    float: right;
+    /* Float the sidebar/aside section to the right */
+    width: 20%;
+    /* Width of the sidebar/aside section */
+    height: 100%;
+    /* Height of the sidebar/aside section */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* Font family for sidebar/aside section text */
+    background-color: #2589bd;
+    /* Background colour for sidebar/aside section */
 }
 
 /* Styling for benefit sections within the sidebar/aside */
 .benefit {
-    margin-bottom: 40px; /* Margin at the bottom of benefit sections */
+    margin-bottom: 40px;
+    /* Margin at the bottom of benefit sections */
     margin-top: 40px;
-    color: #ffffff; /* Text colour for benefit section text */
+    color: #ffffff;
+    /* Text colour for benefit section text */
 }
 
 /* Styling for headings within benefit sections */
 .benefit h3 {
-    margin-bottom: 10px; /* Margin at the bottom of headings within benefit sections */
-    text-align: center; /* Center-align headings within benefit sections */
+    margin-bottom: 10px;
+    /* Margin at the bottom of headings within benefit sections */
+    text-align: center;
+    /* Center-align headings within benefit sections */
 }
 
 /* Styling for images within benefit sections */
 .benefit img {
-    display: block; /* Display images as block elements */
-    margin: 10px auto; /* Center-align images within benefit sections */
-    max-width: 150px; /* Maximum width for images within benefit sections */
+    display: block;
+    /* Display images as block elements */
+    margin: 10px auto;
+    /* Center-align images within benefit sections */
+    max-width: 150px;
+    /* Maximum width for images within benefit sections */
 }
 
 /* Styling for the footer section */
 footer {
-    padding: 30px; /* Padding inside the footer section */
-    clear: both; /* Clear floated elements */
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Font family for footer text */
-    text-align: center; /* Center-align text within the footer */
+    padding: 30px;
+    /* Padding inside the footer section */
+    clear: both;
+    /* Clear floated elements */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* Font family for footer text */
+    text-align: center;
+    /* Center-align text within the footer */
 }
 
 /* Styling for headings within the footer section */
 footer h2 {
-    font-size: 20px; /* Font size for headings within the footer section */
+    font-size: 20px;
+    /* Font size for headings within the footer section */
 }
-
